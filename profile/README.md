@@ -3,6 +3,7 @@ tutaj sie zrobi jakiś opis na później
 ale to jak będziemy wystawiac apke, narazie zrobie projekt, i potem ogarniemy repa, pewnie osobne do frontu i backu (ewentualnie innych mikrousług)
 
 MojeMiasto.api
+
 [![Node.js CI](https://github.com/MojeMiasto/MojeMiasto.api/actions/workflows/node.js.yml/badge.svg)](https://github.com/MojeMiasto/MojeMiasto.api/actions/workflows/node.js.yml)
 
 <!--
