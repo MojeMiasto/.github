@@ -6,6 +6,10 @@ MojeMiasto.api
 
 [![Node.js CI](https://github.com/MojeMiasto/MojeMiasto.api/actions/workflows/node.js.yml/badge.svg)](https://github.com/MojeMiasto/MojeMiasto.api/actions/workflows/node.js.yml)
 
+MojeMiasto.app
+
+[![Node.js CI](https://github.com/MojeMiasto/MojeMiasto.app/actions/workflows/node.js.yml/badge.svg)](https://github.com/MojeMiasto/MojeMiasto.app/actions/workflows/node.js.yml)
+
 <!--
 
 **Here are some ideas to get you started:**
