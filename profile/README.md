@@ -6,6 +6,8 @@ MojeMiasto.api
 
 [![Node.js CI](https://github.com/MojeMiasto/MojeMiasto.api/actions/workflows/node.js.yml/badge.svg)](https://github.com/MojeMiasto/MojeMiasto.api/actions/workflows/node.js.yml)
 
+[![Build and deploy Node.js app to Azure Web App - mojemiasto-api](https://github.com/MojeMiasto/MojeMiasto.api/actions/workflows/main_mojemiasto-api.yml/badge.svg)](https://github.com/MojeMiasto/MojeMiasto.api/actions/workflows/main_mojemiasto-api.yml)
+
 MojeMiasto.app
 
 [![Node.js CI](https://github.com/MojeMiasto/MojeMiasto.app/actions/workflows/node.js.yml/badge.svg)](https://github.com/MojeMiasto/MojeMiasto.app/actions/workflows/node.js.yml)
