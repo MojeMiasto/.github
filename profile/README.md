@@ -19,6 +19,6 @@ Aby korzystać z aplikacji na systemie Android pobierz plik .APK
 Aby przetestować aplikację na systemie iOS: 
 1. Pobierz na komputer z zainstalowanym Node.js i npm repozytorium MojeMiasto.app 
 2. Uruchom komendę `npm install`
-3. Uruchom komendę `expo start`
+3. Uruchom komendę `npm start`
 4. W telefonie zainstaluj aplikację expo
 5. Będąc połączonym do tej samej sieci co komputer zeskanuj kod QR lub przepisz w aplikacji adres widoczny po uruchomieniu programu
