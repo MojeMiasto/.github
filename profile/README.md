@@ -25,4 +25,4 @@ Aby przetestować aplikację na systemie iOS:
 4. W telefonie zainstaluj aplikację expo
 5. Będąc połączonym do tej samej sieci co komputer zeskanuj kod QR lub przepisz w aplikacji adres widoczny po uruchomieniu programu
 ## Screeny
-![a](https://github.com/MojeMiasto/.github/blob/fd02f11d6fa308ad733c743bb7b0f9b138c90e00/128FBE2F-0532-4293-8E30-F5227B39120A.png)
+Screeny znajdują się w repozytorium `.github`
