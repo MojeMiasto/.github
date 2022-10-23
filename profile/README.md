@@ -16,7 +16,7 @@ Nasza aplikacja jest praktyczna w użyciu i wszechstronna. Na rynku nie ma obecn
 ## Jak zacząć?
 Aby korzystać z aplikacji na systemie Android pobierz plik .APK
 
-[MojeMiasto.apk](https://github.com/MojeMiasto/.github/blob/ceda25d0c383b52f07536849e6431fef43a4eaee/MojeMiasto.apk)
+[MojeMiasto.apk](https://github.com/MojeMiasto/.github/blob/main/MojeMiasto.apk)
 
 Aby przetestować aplikację na systemie iOS: 
 1. Pobierz na komputer z zainstalowanym Node.js i npm repozytorium MojeMiasto.app 
@@ -25,4 +25,4 @@ Aby przetestować aplikację na systemie iOS:
 4. W telefonie zainstaluj aplikację expo
 5. Będąc połączonym do tej samej sieci co komputer zeskanuj kod QR lub przepisz w aplikacji adres widoczny po uruchomieniu programu
 ## Screeny
-Screeny znajdują się w repozytorium `.github`
+Screeny znajdują się w repozytorium [.github](https://github.com/MojeMiasto/.github/tree/main/screens)
