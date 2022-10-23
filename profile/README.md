@@ -15,7 +15,9 @@ Backend (MojeMiasto.api) odpowiada za pobieranie danych z odpowiednich API lub s
 Nasza aplikacja jest praktyczna w użyciu i wszechstronna. Na rynku nie ma obecnie innej aplikacji która łączy w sobie tyle funkcji i jest stworzona dla wielu miast. Zawiera w sobie wszystkie najpotrzebniejsze dla nowoczesnego obywatela informacje. Wykorzystaliśmy nowe technologie i rozwiązania dzięki którym nie przeciążamy zewnętrznych usług, a użytkownik ma szybki dostęp do danych. Zaprojektowaliśmy nasz cały system w taki sposób aby bezproblemowo dodawać do niej kolejne miasta.
 ## Jak zacząć?
 Aby korzystać z aplikacji na systemie Android pobierz plik .APK
+
 [MojeMiasto.apk](https://github.com/MojeMiasto/.github/blob/ceda25d0c383b52f07536849e6431fef43a4eaee/MojeMiasto.apk)
+
 Aby przetestować aplikację na systemie iOS: 
 1. Pobierz na komputer z zainstalowanym Node.js i npm repozytorium MojeMiasto.app 
 2. Uruchom komendę `npm install`
